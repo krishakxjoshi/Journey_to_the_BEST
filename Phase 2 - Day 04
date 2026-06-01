@@ -1,0 +1,21 @@
+RAG Foundations ; 
+                    - [x] Introduction to RAG
+                    - [x] RAG vs Fine-Tuning
+                    - [x] RAG Architecture
+                    - [x] Chunking
+                    - [x] Chunk Overlap
+                    - [x] Embeddings
+                    - [x] Semantic Search
+                    - [x] Vector Databases
+                    - [x] Similarity Search
+                    - [x] Retrieval Pipeline
+                    - [x] Top-K Retrieval
+                    - [x] Reranking
+                    - [x] Multi-Chunk Reasoning
+                    - [x] Hybrid Search
+                    - [x] Metadata Filtering
+                    - [x] Citation Support
+                    - [x] Query Rewriting
+                    - [x] Multi-Query Retrieval
+                    - [x] Retrieval Evaluation
+                    - [x] Production RAG Pipeline
