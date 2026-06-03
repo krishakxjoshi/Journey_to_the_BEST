@@ -1,0 +1,21 @@
+Retrieval Engineering & Advanced RAG :
+                                      - [x] Cosine Similarity
+                                      - [x] Embedding Normalization
+                                      - [x] FAISS
+                                      - [x] Approximate Nearest Neighbor (ANN) Search
+                                      - [x] IVF Index
+                                      - [x] HNSW Index
+                                      - [x] nlist & nprobe
+                                      - [x] Embedding Model Tradeoffs
+                                      - [x] BGE Embeddings
+                                      - [x] E5 Embeddings
+                                      - [x] Retrieval Evaluation
+                                      - [x] Recall@K
+                                      - [x] BM25
+                                      - [x] Sparse vs Dense Retrieval
+                                      - [x] Hybrid Search
+                                      - [x] Reciprocal Rank Fusion (RRF)
+                                      - [x] Parent-Child Retrieval
+                                      - [x] Context Expansion
+                                      - [x] Context Deduplication
+                                      - [x] Context Compression
