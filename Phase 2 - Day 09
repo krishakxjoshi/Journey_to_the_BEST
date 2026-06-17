@@ -1,0 +1,24 @@
+Adv MCP : 
+            MCP Motivation & Pre-MCP Ecosystem
+            Traditional Tool Calling vs MCP
+            MCP Architecture
+            MCP Client
+            MCP Server
+            Capability Discovery
+            MCP Primitives
+            Tools
+            Resources
+            Prompts
+            Sampling
+            Tool Schemas & JSON Schema
+            Transport Layers
+            stdio
+            HTTP
+            WebSockets
+            SSE
+            Session Management
+            Authentication & Authorization in MCP
+            Multi-Server Discovery
+            Server Chaining
+            Remote MCP Servers
+            Designing Custom MCP Servers
